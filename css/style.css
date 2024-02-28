@@ -5,21 +5,22 @@
 #navbar{
     color: black;
     background-color: white;
-    margin-left: 30%;
+    margin-left: 20%;
     height: 70px;
     width: 2%;
     display: none;
     
 }
 #logo{
-    color: black;
+    color: rgb(65, 63, 63);
     font-size: 30px;
     font-family: monospace;
-    padding-left: 10%;
-    padding-right: 5;
+    padding-left: 9%;
+    /* padding-right: 5; */
 }
 a{
-    margin-right: 150px;
+    margin-right: 90px;
+    text-decoration: none;
 }
 .steel{
     display: flex;
@@ -74,6 +75,9 @@ p{
     display: flex;
     display: inline-block;
     position: relative;
+    justify-content: center;
+    text-align: center;
+    
 
 }
 .image{
